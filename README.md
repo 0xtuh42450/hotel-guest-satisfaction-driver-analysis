@@ -53,14 +53,6 @@ These insights suggest hotel operators should:
 
 ---
 
-## 📂 Repository Structure
-```text
-hotel-guest-satisfaction-driver-analysis/
-├── hotel_guest_satisfaction_driver_analysis.ipynb
-├── data/
-│   └── hotel_survey_synthetic.csv
-└── README.md
-
 ## ▶️ How to Run This Project
 1. Clone the repository
 2. Open the Jupyter notebook
@@ -71,3 +63,13 @@ hotel-guest-satisfaction-driver-analysis/
 ## 📌 Notes
 This project uses a synthetic dataset designed to reflect realistic
 hotel guest survey behavior for demonstration and portfolio purposes.
+
+---
+
+## 📂 Repository Structure
+```text
+hotel-guest-satisfaction-driver-analysis/
+├── hotel_guest_satisfaction_driver_analysis.ipynb
+├── data/
+│   └── hotel_survey_synthetic.csv
+└── README.md
