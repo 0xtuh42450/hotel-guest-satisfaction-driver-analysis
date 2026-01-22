@@ -61,8 +61,6 @@ hotel-guest-satisfaction-driver-analysis/
 │   └── hotel_survey_synthetic.csv
 └── README.md
 
----
-
 ## ▶️ How to Run This Project
 1. Clone the repository
 2. Open the Jupyter notebook
