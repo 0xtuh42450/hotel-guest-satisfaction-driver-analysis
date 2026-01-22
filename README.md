@@ -1,20 +1,20 @@
 # Hotel Guest Satisfaction Driver Analysis
 
-## 📌 Executive Summary
+##  Executive Summary
 This project analyzes hotel guest satisfaction survey data to identify which operational service factors most strongly influence overall guest satisfaction — and how those drivers differ between dissatisfied and highly satisfied guests.
 
 By combining interpretable statistical models with machine learning and SHAP explainability, the analysis moves beyond average effects to uncover *why* guests are unhappy, *what* drives recovery, and *which* factors create true guest delight.
 
 ---
 
-## ❓ Business Questions
+##  Business Questions
 1. Which service attributes most strongly drive overall guest satisfaction?
 2. Are satisfaction drivers different for low vs high satisfaction guests?
 3. Which factors act as baseline expectations versus delight drivers?
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 The analysis follows a layered, decision-oriented approach:
 
 - **Exploratory Data Analysis (EDA)**: understand score distributions and data quality
@@ -24,7 +24,7 @@ The analysis follows a layered, decision-oriented approach:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### 1️⃣ Cleanliness is a baseline requirement
 Poor cleanliness strongly decreases satisfaction, while high cleanliness shows diminishing returns. It is necessary to prevent dissatisfaction but does not meaningfully differentiate among highly satisfied guests.
@@ -37,7 +37,7 @@ Among highly satisfied guests, staff friendliness and room comfort play a larger
 
 ---
 
-## 📈 Why This Matters
+##  Why This Matters
 These insights suggest hotel operators should:
 - Treat cleanliness as a non-negotiable baseline
 - Invest heavily in service recovery processes
@@ -45,7 +45,7 @@ These insights suggest hotel operators should:
 
 ---
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 - Python (pandas, NumPy)
 - scikit-learn (Linear Regression, Random Forest)
 - SHAP (SHapley Additive exPlanations)
@@ -53,20 +53,20 @@ These insights suggest hotel operators should:
 
 ---
 
-## ▶️ How to Run This Project
+##  How to Run This Project
 1. Clone the repository
 2. Open the Jupyter notebook
 3. Run all cells (the dataset is included in `/data`)
 
 ---
 
-## 📌 Notes
+##  Notes
 This project uses a synthetic dataset designed to reflect realistic
 hotel guest survey behavior for demonstration and portfolio purposes.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 hotel-guest-satisfaction-driver-analysis/
 ├── hotel_guest_satisfaction_driver_analysis.ipynb
